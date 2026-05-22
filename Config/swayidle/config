@@ -1,0 +1,10 @@
+timeout 300 'qs -c noctalia-shell ipc call lockscreen lock'
+
+# 10分钟后降低屏幕亮度（如果支持）
+timeout 600 'brightnessctl set 10%'
+
+# 15分钟后关闭屏幕
+timeout 900 'niri msg action power-off-monitors'
+
+# 睡眠前锁定屏幕
+before-sleep 'qs -c noctalia-shell ipc call lockscreen lock'

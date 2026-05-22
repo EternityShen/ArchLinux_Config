@@ -1,1 +1,2 @@
 # ArchLinux_Confg
+ShenEternity的ArchLinux配置

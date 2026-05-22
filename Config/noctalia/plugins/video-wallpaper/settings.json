@@ -1,0 +1,42 @@
+{
+  "activeBackend": "qt6-multimedia",
+  "automationMode": "random",
+  "automationTime": 300,
+  "fillMode": "fit",
+  "mpvSocket": "/tmp/mpv-socket",
+  "profile": "default",
+  "volume": 1,
+  "wallpapersFolder": "/home/sheneternity/Pictures",
+  "thumbCacheReady": true,
+  "enabled": false,
+  "eDP-1": {
+    "currentWallpaper": "/home/sheneternity/Pictures/lv_0_20260518191128 (online-video-cutter.com) (1).mp4",
+    "noctaliaWallpaper": "/home/sheneternity/Pictures/Wallpapers/bing-2026-05-22.jpg",
+    "isPlaying": true,
+    "isMuted": true,
+    "volume": 1,
+    "automation": false,
+    "automationMode": "random",
+    "automationTime": 300,
+    "hardwareAcceleration": false,
+    "profile": "default",
+    "fillMode": "",
+    "orientation": 0
+  },
+  "HDMI-A-1": {
+    "currentWallpaper": "/home/sheneternity/Pictures/lv_0_20260518191128 (online-video-cutter.com) (1).mp4",
+    "noctaliaWallpaper": "/home/sheneternity/Pictures/Wallpapers/bing-2026-05-22.jpg",
+    "volume": 1,
+    "automation": true,
+    "automationMode": "random",
+    "automationTime": 300,
+    "hardwareAcceleration": false,
+    "profile": "default",
+    "fillMode": "",
+    "orientation": 0,
+    "isPlaying": true,
+    "isMuted": true
+  },
+  "monitorSpecific": true,
+  "automationCustomTime": []
+}
